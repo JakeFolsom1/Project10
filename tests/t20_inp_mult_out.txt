@@ -1,0 +1,6 @@
+MAIN
+INPUT X;
+INPUT Y;
+X = X * Y ;
+OUTPUT X;
+1 2 3 

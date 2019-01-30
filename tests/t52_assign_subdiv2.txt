@@ -1,0 +1,7 @@
+MAIN
+X = 2;
+X = X - Y;
+Y = Y / X;
+OUTPUT X;
+OUTPUT Y;
+1 2 3 

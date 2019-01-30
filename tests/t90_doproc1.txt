@@ -1,0 +1,10 @@
+PROC CX
+X = 2;
+ENDPROC
+MAIN
+X = 1;
+OUTPUT X;
+Z =2;
+DO Z CX;
+OUTPUT X;
+1 2 3

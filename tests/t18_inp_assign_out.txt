@@ -1,0 +1,5 @@
+MAIN
+INPUT X;
+X = X + 2;
+OUTPUT X;
+1 2 3 

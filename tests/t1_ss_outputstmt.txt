@@ -1,0 +1,3 @@
+MAIN
+OUTPUT X;
+1 2 3 

@@ -1,0 +1,7 @@
+MAIN
+INPUT X;
+INPUT Y;
+X = Y;
+OUTPUT X;
+OUTPUT Y;
+1 2 3 

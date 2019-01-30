@@ -1,0 +1,9 @@
+PROC CX
+X = 2;
+ENDPROC
+MAIN
+X = 1;
+OUTPUT X;
+CX;
+OUTPUT X;
+1 2 3

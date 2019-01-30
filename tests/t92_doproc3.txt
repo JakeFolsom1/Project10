@@ -1,0 +1,10 @@
+PROC MULTX
+X = X * 2;
+ENDPROC
+MAIN
+X = 2;
+Z = 2;
+OUTPUT X;
+DO Z MULTX;
+OUTPUT X;
+1 2 3

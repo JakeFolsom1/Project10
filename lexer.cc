@@ -174,7 +174,7 @@ Token LexicalAnalyzer::GetToken()
     char c;
 
     // if there are tokens that were previously
-    // stored due to UngetToken(), pop a token and
+    // stored due to UngetTokena token and
     // return it without reading from input
     if (!tokens.empty()) {
         tmp = tokens.back();

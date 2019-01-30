@@ -1,0 +1,11 @@
+MAIN
+INPUT Y;
+INPUT Z;
+X = X - Y;
+Y = X / Y;
+Z = Y;
+Z = Z * 3;
+OUTPUT X;
+OUTPUT Y;
+OUTPUT Z;
+1 2 3 
